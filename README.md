@@ -1,11 +1,6 @@
 <p align="center">
     <img title="SARA" src="https://img.shields.io/badge/CODENAME%20-SARA-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
-    <img title="SARA" src="https://img.shields.io/badge/VERSION%20-3.1-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
-</p>
-
-<p align="center">
-  <strong> Made with ❤️ for Security Research </strong><br>
-  <sub>Remember: With great power comes great responsibility</sub>
+    <img title="SARA" src="https://img.shields.io/badge/VERSION%20-3.1.1-SCRIPT?colorA=grey&colorB=blue&style=for-the-badge">
 </p>
 
 **What is SARA**:
@@ -54,3 +49,9 @@ python3 sara.py
 Copyright © 2021-2025 Termux Hackers ID
 This project is licensed for educational purposes only.
 
+---
+
+<p align="center">
+  <strong> Made with ❤️ for Security Research </strong><br>
+  <sub>Remember: With great power comes great responsibility</sub>
+</p>
